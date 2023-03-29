@@ -1,0 +1,43 @@
+<h1>Spotify Chatbot</h1>
+This is a simple Telegram chatbot that uses the Spotify API and OpenAI's GPT-3 model to provide information about tracks, artists, and albums on Spotify.
+
+Features
+Provides information about tracks, artists, and albums on Spotify
+Uses OpenAI's GPT-3 model to generate responses
+Uses the Spotify API to search for track, artist, and album information
+Setup
+Clone the repository:
+```
+git clone https://github.com/ogabek0302/spotify-chatbot.git
+```
+Install the dependencies:
+
+```
+pip install -r requirements.txt
+```
+Create a Telegram bot and get its API token from BotFather
+
+Create a Spotify developer account and create a new app to get the client ID and client secret
+
+Create an OpenAI developer account and get the API key
+
+Create a file named .env in the root directory of the project and add the following lines:
+
+TELEGRAM_BOT_TOKEN=<YOUR_TELEGRAM_BOT_TOKEN>
+SPOTIFY_CLIENT_ID=<YOUR_SPOTIFY_CLIENT_ID>
+SPOTIFY_CLIENT_SECRET=<YOUR_SPOTIFY_CLIENT_SECRET>
+OPENAI_API_KEY=<YOUR_OPENAI_API_KEY>
+
+<h1>Run the bot:</h1>
+```
+python main.py
+```
+Usage
+To use the bot, simply start a chat with it on Telegram and type in the name of the track, artist, or album you're interested in. The bot will respond with information about the search query.
+
+Here are some example commands:
+
+/start or /help - Displays a welcome message and instructions on how to use the bot
+/track <track_name> - Searches for information about a specific track
+/artist <artist_name> - Searches for information about a specific artist
+/album <album_name> - Searches for information about a specific album

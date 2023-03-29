@@ -1,0 +1,20 @@
+2023-03-30 00:41:27.344252 - User 727923318: Тони Раут
+2023-03-30 00:41:27.344278 - Bot: Привет, Тони Раут. Как дела?
+2023-03-30 00:41:56.062070 - User 2082688972: hi
+2023-03-30 00:41:56.062088 - Bot: Hello! How can I help you?
+2023-03-30 00:42:57.825531 - User 727923318: /track Underdog
+2023-03-30 00:42:57.825552 - Bot: Sure, I will track Underdog for you.
+2023-03-30 00:57:52.020820 - User 727923318: /album Страна Ос
+2023-03-30 00:57:52.020840 - Bot: Название альбома "Страна Ос" состоит из песен:
+
+1. Вернись д
+2023-03-30 00:58:41.832311 - User 727923318: /album Страна Ос
+2023-03-30 00:58:41.832330 - Bot: Вы имеете ввиду альбом "Страна Ос" группы Ария?
+2023-03-30 00:59:39.176310 - User 727923318: /album Hostel
+2023-03-30 00:59:39.176325 - Bot: Hostel is the second studio album by American rapper Lil Baby. It was released on October 30, 2020, through Quality Control Music and Wolfpack Global Music. The album features guest appearances from Gunna, 42 Dugg, Lil Uzi Vert, Rylo Rodriguez, and Moneybagg Yo. The
+2023-03-30 01:00:42.078421 - User 727923318: /album Bad Pazific
+2023-03-30 01:00:42.078442 - Bot: Bad Pacific is a rock band from Austin, Texas. The band was formed in 2014 and consists of vocalist and guitarist Chris Houser, bassist and vocalist Jason Smith, and drummer Mark Johnson. The band has released two EPs, "Bad Pacific" in 2015 and "Bad Pacific II"
+2023-03-30 01:01:04.593446 - User 727923318: /album Bad Pazific Toni Raut
+2023-03-30 01:01:04.593465 - Bot: Bad Pacific Toni Raut is an album by the artist Toni Raut. It was released in 2018 and features a mix of pop, rock, and electronic music. The album contains the singles "Let It Go" and "Crazy".
+2023-03-30 01:04:17.466168 - User 727923318: /ablum Страна Ос
+2023-03-30 01:04:17.466216 - Bot: Альбом "Страна Ос" был выпущен группой Алиса в 2019 году. Он с
